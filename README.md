@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Maria
+### <h1 align="center"> Hi there 👋 I'm Maria </h1>
+- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on la-fontana-app
+- 📫 How to reach me: https://www.linkedin.com/in/mariapirtu/
 
 <!--
 **MaryPirtu/MaryPirtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
